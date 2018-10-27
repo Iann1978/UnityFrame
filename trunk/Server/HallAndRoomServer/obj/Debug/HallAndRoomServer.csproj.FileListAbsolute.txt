@@ -1,0 +1,10 @@
+C:\iann1978.NewFrame\trunk\Server\HallAndRoomServer\bin\Debug\HallAndRoomServer.exe.config
+C:\iann1978.NewFrame\trunk\Server\HallAndRoomServer\bin\Debug\HallAndRoomServer.exe
+C:\iann1978.NewFrame\trunk\Server\HallAndRoomServer\bin\Debug\HallAndRoomServer.pdb
+C:\iann1978.NewFrame\trunk\Server\HallAndRoomServer\bin\Debug\MySql.Data.dll
+C:\iann1978.NewFrame\trunk\Server\HallAndRoomServer\bin\Debug\Proto.dll
+C:\iann1978.NewFrame\trunk\Server\HallAndRoomServer\bin\Debug\protobuf-net.dll
+C:\iann1978.NewFrame\trunk\Server\HallAndRoomServer\bin\Debug\Proto.pdb
+C:\iann1978.NewFrame\trunk\Server\HallAndRoomServer\obj\Debug\HallAndRoomServer.csprojResolveAssemblyReference.cache
+C:\iann1978.NewFrame\trunk\Server\HallAndRoomServer\obj\Debug\HallAndRoomServer.exe
+C:\iann1978.NewFrame\trunk\Server\HallAndRoomServer\obj\Debug\HallAndRoomServer.pdb
