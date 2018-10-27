@@ -1,0 +1,5 @@
+C:\iann1978.NewFrame\trunk\Proto\bin\Debug\Proto.dll
+C:\iann1978.NewFrame\trunk\Proto\bin\Debug\Proto.pdb
+C:\iann1978.NewFrame\trunk\Proto\bin\Debug\protobuf-net.dll
+C:\iann1978.NewFrame\trunk\Proto\obj\Debug\Proto.dll
+C:\iann1978.NewFrame\trunk\Proto\obj\Debug\Proto.pdb
