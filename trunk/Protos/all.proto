@@ -1,0 +1,104 @@
+syntax = "proto3";
+package packs;
+
+message UserInfo {
+	int32 Id = 1;
+	string Username = 2;
+	int32 Coin = 3;
+	int32 Diamond = 4;
+	int32 Vigour = 5;
+	int32 VipLevel = 6;
+	int32 TeamLevel = 7;
+	int32 TeamExp = 8;
+	int32 TeamIcon = 9;
+	int32 TeamIconFrame = 10;
+	int32 BattlePower = 11;
+	int32 TeamTimes = 12;
+	repeated HeroInfo HeroList = 13;
+}
+
+message ReqRegist
+{
+    string Username = 1;
+	string Password	= 2;
+}
+
+message UserRegist
+{
+    int32 ErrorCode = 1; // 0: NoError, 1: Username has already exist, 
+    UserInfo UserInfo = 2;
+}
+
+message ReqLogon {
+	string Username = 1;
+	string Password = 2;
+}
+
+message UserLogon {
+	int32 ErrorCode = 1;
+	UserInfo UserInfo = 2;
+}
+
+message ReqLogout
+{
+    int32 UserId = 1;
+}
+
+message UserLogout
+{
+    int32 UserId = 1;
+}
+
+message ReqChangeTeamIconFrame
+{
+    int32 Userid = 1;
+    int32 TeamIconFrame = 2;
+}
+
+message TeamIconFrameChanged
+{
+    int32 Userid = 1;
+    int32 TeamIconFram = 2;
+}
+
+message ReqUserAddCoin
+{
+    int32 Userid = 1;
+}
+
+message UserAddCoin
+{
+    int32 Userid = 1;
+    UserInfo UserInfo = 2;
+    int32 Coin = 3;
+    int32 Diamond = 4;
+    int32 VipLevel = 6;
+}
+
+message ReqChangeUsername
+{
+    int32 Userid = 1;
+    string Username = 2;
+}
+
+message ChangeUsername {
+	int32 Userid = 1;
+	string Username = 2;
+}
+
+message HeroInfo {
+	int32 Id = 1;
+	int32 Level = 2;
+	int32 Star = 3;
+	int32 Quality = 5;
+}
+
+
+
+
+
+
+
+
+
+
