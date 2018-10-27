@@ -1,0 +1,4 @@
+AssetId,AssetType,AssetClass,AssetPathname,AssetBundleName,AssetName,
+1.0,Resource,Panel,Panels/PanelMain,,,
+2.0,Download,Panel,Panels/PanelLogon, "panellogon","Assets/Resources/Panels/PanelLogon.prefab",
+3.0,Resource,Panel,Panels/PanelSetting,,,
