@@ -1,0 +1,2 @@
+python BuildClient.py
+pause

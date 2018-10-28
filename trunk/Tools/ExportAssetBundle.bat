@@ -1,0 +1,2 @@
+python ExportAssetBundle.py
+pause

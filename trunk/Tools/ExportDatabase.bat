@@ -1,0 +1,1 @@
+mysqldump -uroot newframe > ../database/newframe.sql

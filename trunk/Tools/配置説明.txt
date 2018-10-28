@@ -1,0 +1,3 @@
+TexturePackerExe: 可執行文件TexturePackage的路徑。
+UnityExe: 可執行文件Unity的路徑。
+配置Mysql路径。

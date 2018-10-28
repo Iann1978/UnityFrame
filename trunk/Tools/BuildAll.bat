@@ -1,0 +1,2 @@
+python buildall.py
+pause

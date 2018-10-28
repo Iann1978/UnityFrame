@@ -1,0 +1,2 @@
+python PackageServer.py CleanServer
+pause

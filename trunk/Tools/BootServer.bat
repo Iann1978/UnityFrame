@@ -1,0 +1,2 @@
+python BootServer.py
+pause

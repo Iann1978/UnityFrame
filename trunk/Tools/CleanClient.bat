@@ -1,0 +1,2 @@
+python CleanClient.py
+pause
