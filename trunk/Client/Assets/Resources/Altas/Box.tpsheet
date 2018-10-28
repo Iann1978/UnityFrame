@@ -1,0 +1,21 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: Box.png (452 x 232)
+# $TexturePacker:SmartUpdate:7b9e0666530469396b5334a70522373c:21ae8c44cfae505b519c01bf6cd65d96:5a0aefb006c6bbb60a8cbfadb0d12a98$
+#
+
+Background001;398;11;50;50;0.5;0.5
+Background002;346;6;50;50;0.5;0.5
+CoinBox;278;17;66;39;0.5;0.5
+Frame001;2;2;100;100;0.5;0.5
+Frame002;365;63;80;80;0.5;0.5
+PinZhiBox_0001;278;58;85;85;0.5;0.5
+PinZhiBox_0002;191;17;85;85;0.5;0.5
+PinZhiBox_0003;361;145;85;85;0.5;0.5
+PinZhiBox_0004;104;17;85;85;0.5;0.5
+PinZhiBox_0005;274;145;85;85;0.5;0.5
+TeamBox;2;104;270;126;0.5;0.5

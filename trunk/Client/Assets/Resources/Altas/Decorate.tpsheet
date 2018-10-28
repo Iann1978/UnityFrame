@@ -1,0 +1,21 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: Decorate.png (724 x 100)
+# $TexturePacker:SmartUpdate:cd56d4df2644aad901c559311e5041fa:f1a992b6a8abe542d64162a17e6a692b:6366efa556f2a9411ea72842c8d28c04$
+#
+
+Basic79;451;92;187;2;0.5;0.5
+Basic83;279;9;134;41;0.5;0.5
+Battle0014;2;96;720;2;0.5;0.5
+Close;594;10;57;80;0.5;0.5
+Corner001;415;14;35;36;0.5;0.5
+Icon33;653;28;30;32;0.5;0.5
+Icon34;653;62;31;32;0.5;0.5
+LevelBox;476;38;116;52;0.5;0.5
+Separator001;2;52;472;4;0.5;0.5
+Separator002;2;58;447;36;0.5;0.5
+common32;2;3;275;47;0.5;0.5
